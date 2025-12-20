@@ -3,6 +3,10 @@
 
 <head>
   <title> hello </title>
+  <style>
+    body { background-color: blue;
+          }
+  </style>
 </head>
 
 <body>
