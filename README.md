@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,13 +8,9 @@
   </style>
 </head>
 
-<body>
+
   <h1> more testing </h1>
   <p> testing for function
-  </p>
+  </p
 
-  <script>
-    
-  </script>
-</body>
 </html>
