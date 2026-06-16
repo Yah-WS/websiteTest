@@ -1,12 +1,12 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <title> hello </title>
+  <title>hello</title>
   <style>
-    body { background-color: purple;
+    body { background-color: white;
           }
   </style>
+  
 </head>
 
 <body>
@@ -14,8 +14,12 @@
   <p> testing for function
   </p>
 
+  <p> test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            end 
+  </p>
   <script>
     
   </script>
 </body>
+
+
 </html>
